@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Delete a user","Delete a user test class","SUCCESS","2022-12-27T03:36:00.053-06:00[America/Chicago]","0.0","4.38"
+"Get the users","Get all the users test class","SUCCESS","2022-12-27T03:36:05.938-06:00[America/Chicago]","0.0","0.39"
+"Post a request","Post request test","SUCCESS","2022-12-27T03:36:07.631-06:00[America/Chicago]","0.0","3.06"

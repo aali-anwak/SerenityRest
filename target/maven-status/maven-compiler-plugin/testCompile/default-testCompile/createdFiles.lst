@@ -1,0 +1,4 @@
+TestSteps\StepsClass.class
+TestCasesPackage\PostARequest.class
+TestCasesPackage\GetTheUsers.class
+TestCasesPackage\DeleteAUser.class
